@@ -1,5 +1,4 @@
 
-
 This project is intended to demonstrate a memory leak when setting
  kABPersonKindProperty to kABPersonKindOrganization, in conjunction with 
  setting the kABPersonOrganizationProperty property.
@@ -14,5 +13,10 @@ This project is intended to demonstrate a memory leak when setting
  Xcode 4.5.2 (4G2008a)
  
  Mac OS X Lion 10.7.5 (11G63)
+ 
+ 
+ Update:  Bug report submitted to Apple.
+ 
+ 
  
  
